@@ -10,4 +10,4 @@ Hearts for Everyone is a silly project made to share hearts with people on the i
 
 ## How does it work?
 
-Super simple! I used google's web-based machine learning model [Teachable Machine](https://teachablemachine.withgoogle.com/) and trained it to recognize two classes: idle and hands up. I took the model into [p5.js](https://p5js.org/) and applied a pixel array to the webcam to assign to the hands up class. And volià! Hearts for everyone 💖.
+Super simple! I used google's web-based machine learning model [Teachable Machine](https://teachablemachine.withgoogle.com/) and trained it to recognize two classes: idle and hands up. Then I took the model into [p5.js](https://p5js.org/) and replaced every 12th pixel with a heart emoji depending on how bright that pixel is to assign to the "hands up" class. And volià! Hearts for everyone 💖.
