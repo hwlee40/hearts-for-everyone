@@ -68,7 +68,7 @@ function draw() {
     //Webcam
     video.loadPixels();
     image(video, 0,0, desiredWidth, desiredHeight);
-    directions = 'Raise your hand for some love :)';
+    directions = 'Raise your hand for some hearts :)';
   }
 
   //Some text for directions. Directions var changes depending on label state in the if else statement above.
