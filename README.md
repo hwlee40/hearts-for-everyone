@@ -6,7 +6,7 @@ Hearts for Everyone is a silly project made to share hearts with people on the i
 
 ## Demonstration
 
-<!-- ![](/hearts_demo.gif) -->
+![](/hearts_demo.gif)
 
 ## How does it work?
 
